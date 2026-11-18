@@ -1,0 +1,14 @@
+{
+  "[project]/node_modules/@splinetool/react-spline/dist/react-spline.js [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/node_modules/@splinetool/react-spline/dist/react-spline.js [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_@splinetool_runtime_build_0qwe-uf._.js",
+      "static/chunks/node_modules_@splinetool_runtime_build_runtime-chunk-BVVSZMXD_0xnba4g.js",
+      "static/chunks/node_modules_@splinetool_runtime_build_runtime-chunk-K3UQCG3P_1bjh6pa.js",
+      "static/chunks/node_modules_@splinetool_runtime_build_runtime-chunk-VKNEB4X7_0gkmrlk.js",
+      "static/chunks/node_modules_@splinetool_runtime_build_runtime_1rgd60w.js",
+      "static/chunks/node_modules_@splinetool_runtime_build_0bbae9f._.js",
+      "static/chunks/node_modules_208gw7w._.js"
+    ]
+  }
+}

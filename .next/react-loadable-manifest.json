@@ -1,0 +1,344 @@
+{
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-2CHZO2W5.js -> ./boolean.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-2CHZO2W5.js -> ./boolean.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_boolean_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-DZH2WGOA.js -> ./navmesh.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-DZH2WGOA.js -> ./navmesh.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_navmesh_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-DZH2WGOA.js -> ./physics.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-DZH2WGOA.js -> ./physics.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_physics_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-HPN5XNUK.js -> ./gaussian-splat-compression.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-HPN5XNUK.js -> ./gaussian-splat-compression.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_gaussian-splat-compression_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-NSD7DU3P.js -> ./howler.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-NSD7DU3P.js -> ./howler.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_howler_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-QLM3QIP6.js -> ./hana-ui.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-QLM3QIP6.js -> ./hana-ui.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_hana-ui_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-T53JMQSH.js -> ./opentype.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-T53JMQSH.js -> ./opentype.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_opentype_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-VKNEB4X7.js -> ./bevel.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-VKNEB4X7.js -> ./bevel.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_bevel_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-VKNEB4X7.js -> ./process.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime-chunk-VKNEB4X7.js -> ./process.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_process_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-DRACOLoader-GLMRFFK2.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-DRACOLoader-GLMRFFK2.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-DRACOLoader-GLMRFFK2_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-Perfs-KMJFDYHU.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-Perfs-KMJFDYHU.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-Perfs-KMJFDYHU_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-aiAssistant-QYI2OEAT.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-aiAssistant-QYI2OEAT.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-aiAssistant-QYI2OEAT_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-apiServices-NYOQMQZG.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-apiServices-NYOQMQZG.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-apiServices-NYOQMQZG_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-audio-43VUDXSF.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-audio-43VUDXSF.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-audio-43VUDXSF_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-bloom-XL2LGMRS.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-bloom-XL2LGMRS.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-bloom-XL2LGMRS_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-brightnessContrast-NVUYXHJN.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-brightnessContrast-NVUYXHJN.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-brightnessContrast-NVUYXHJN_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-chromaticAberration-G6RI2BZ6.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-chromaticAberration-G6RI2BZ6.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-chromaticAberration-G6RI2BZ6_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-classicRuntime-HF6JGD42.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-classicRuntime-HF6JGD42.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-classicRuntime-HF6JGD42_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-cloners-ZX2OB4LS.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-cloners-ZX2OB4LS.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-cloners-ZX2OB4LS_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-collisionBVH-CQUE6RZV.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-collisionBVH-CQUE6RZV.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-collisionBVH-CQUE6RZV_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-components-BZG3HUWK.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-components-BZG3HUWK.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-components-BZG3HUWK_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-conditional-P3ULJSG2.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-conditional-P3ULJSG2.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-conditional-P3ULJSG2_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-createDestroy-VXBWFVTS.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-createDestroy-VXBWFVTS.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-createDestroy-VXBWFVTS_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-depthOfField-UOGP3RXR.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-depthOfField-UOGP3RXR.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-depthOfField-UOGP3RXR_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-dragDrop-P223F7A6.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-dragDrop-P223F7A6.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-dragDrop-P223F7A6_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-fxBloom-7MH75D7M.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-fxBloom-7MH75D7M.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-fxBloom-7MH75D7M_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-fxDepthOfField-TFTNDBM5.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-fxDepthOfField-TFTNDBM5.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-fxDepthOfField-TFTNDBM5_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-gameControls-W6TFYJSZ.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-gameControls-W6TFYJSZ.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-gameControls-W6TFYJSZ_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-hair-G5CXUVFF.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-hair-G5CXUVFF.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-hair-G5CXUVFF_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-hueSaturation-LYCL2TIK.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-hueSaturation-LYCL2TIK.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-hueSaturation-LYCL2TIK_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-mergeStaticGeometries-E7H7BAQP.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-mergeStaticGeometries-E7H7BAQP.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-mergeStaticGeometries-E7H7BAQP_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-miscActions-3N2L2JO5.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-miscActions-3N2L2JO5.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-miscActions-3N2L2JO5_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-mouseHover-VHSSPZCA.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-mouseHover-VHSSPZCA.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-mouseHover-VHSSPZCA_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-noise-PNVGOS7A.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-noise-PNVGOS7A.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-noise-PNVGOS7A_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-particles-OMJPGMKO.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-particles-OMJPGMKO.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-particles-OMJPGMKO_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-paths-EG7R5LJG.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-paths-EG7R5LJG.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-paths-EG7R5LJG_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-pixelation-ZVCDH6UI.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-pixelation-ZVCDH6UI.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-pixelation-ZVCDH6UI_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-resize-F4VBNDBX.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-resize-F4VBNDBX.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-resize-F4VBNDBX_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-sceneTransition-K7CREMJ2.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-sceneTransition-K7CREMJ2.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-sceneTransition-K7CREMJ2_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-scroll-IW2U762E.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-scroll-IW2U762E.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-scroll-IW2U762E_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-shapeBlends-22EDWNRF.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-shapeBlends-22EDWNRF.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-shapeBlends-22EDWNRF_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-text-EIMDOA2Q.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-text-EIMDOA2Q.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-text-EIMDOA2Q_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-textInputs-RKFW53PO.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-textInputs-RKFW53PO.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-textInputs-RKFW53PO_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-timeline-OT6L7TMX.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-timeline-OT6L7TMX.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-timeline-OT6L7TMX_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-tracking-XFEB36TB.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-tracking-XFEB36TB.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-tracking-XFEB36TB_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-transitions-NAGXJIZB.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-transitions-NAGXJIZB.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-transitions-NAGXJIZB_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-ui2d-SM2GYYXL.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-ui2d-SM2GYYXL.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-ui2d-SM2GYYXL_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-updater-6QPW4RJT.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-updater-6QPW4RJT.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-updater-6QPW4RJT_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-variables-IRTA2G43.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-variables-IRTA2G43.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-variables-IRTA2G43_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-vectorShapes-H7ZJ4ST2.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-vectorShapes-H7ZJ4ST2.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-vectorShapes-H7ZJ4ST2_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-video-3ET4F26V.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-video-3ET4F26V.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-video-3ET4F26V_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-vignette-TECYHVQU.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-vignette-TECYHVQU.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-vignette-TECYHVQU_js.js"
+    ]
+  },
+  "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-webgpu-YFAQHL27.js": {
+    "id": "..\\node_modules\\@splinetool\\runtime\\build\\runtime.js -> ./runtime-webgpu-YFAQHL27.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_runtime_build_runtime-webgpu-YFAQHL27_js.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__app_js.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__error_js.js"
+    ]
+  },
+  "components\\3d\\spline-hero.tsx -> @splinetool/react-spline": {
+    "id": "components\\3d\\spline-hero.tsx -> @splinetool/react-spline",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_splinetool_react-spline_dist_react-spline_js.js"
+    ]
+  }
+}
